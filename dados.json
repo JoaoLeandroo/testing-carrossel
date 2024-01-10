@@ -1,0 +1,39 @@
+{
+    "list": [
+        {
+            "id": "1",
+            "name": "The Nights",
+            "link": "https://www.youtube.com/watch?v=UtF6Jej8yb4",
+            "artista": "Avicii",
+            "img": "avicci.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Waiting For Love",
+            "link": "https://www.youtube.com/watch?v=cHHLHGNpCSA",
+            "artista": "Avicii",
+            "img": "avicci.jpg"
+        },
+        {
+            "id": "3",
+            "name": "Wake me Up",
+            "link": "https://www.youtube.com/watch?v=IcrbM1l_BoI",
+            "artista": "Avicii",
+            "img": "avicci.jpg"
+        },
+        {
+            "id": "4",
+            "name": "Symphony",
+            "link": "https://www.youtube.com/watch?v=aatr_2MstrI",
+            "artista": "Clean Bandit",
+            "img": "clean.jpg"
+        },
+        {
+            "id": "5",
+            "name": "Dandelions",
+            "link": "https://www.youtube.com/watch?v=W8a4sUabCUo",
+            "artista": "Ruth B.",
+            "img": "ruth.jpeg"
+        }
+    ]
+}
